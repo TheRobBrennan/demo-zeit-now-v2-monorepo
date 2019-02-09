@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "deploy": "now && now alias"
+  }
+}
